@@ -1,14 +1,8 @@
 ## Projetos selecionados
 
----
-
+----
 ### []()
-
-
-
-
 [![]()](#) [![]()](#) [![]()](#) [![]()](#) [![]()](#)
-
 ### [Web Scraping: Automatizando uma recolha de dados na web com Python](https://github.com/carlosmandele/Coleta-de-dados-na-Web/blob/master/robot_selenium_Data_collectionweb.py)
 
 Web scraping é uma técnica que compreende a recolha de dados de paginas web com objetivo de extrair informações específicas. Neste projeto, o objetivo é extair informações de forma automatizada sobre as condições das marés em Tadoussac (Canadá) para os próximos sete dias.
@@ -81,7 +75,7 @@ Neste projeto, desenvolvi um programa (web crawler) básico que visita sistemati
 ---
 
 ## Projetos baseados em competências
-Uma seleção de outros projetos que demonstram habilidades específicas de Ciência de dados, Inteligência artificial, Machine Learning, IoT e Software Back-End.
+Uma seleção de outros projetos que demonstram habilidades específicas de Ciência de dados, Inteligência artificial, Machine Learning, IoT & Sistemas Embarcados, Software Back-End e Ferramentas.
 
 - [Extração de dados na web com R](https://github.com/carlosmandele/Scraping-R/blob/main/datascraping.R)
 - [Análise descritiva de dados com Python](https://github.com/carlosmandele/analise-descritiva-de-dados/blob/master/DDA_Python.ipynb)
