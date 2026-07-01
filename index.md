@@ -77,6 +77,7 @@ Neste projeto, desenvolvi um programa (web crawler) básico que visita sistemati
 ## Projetos baseados em competências
 Uma seleção de outros projetos que demonstram habilidades específicas de Ciência de dados, Inteligência artificial, Machine Learning, IoT & Sistemas Embarcados, Software Back-End e Ferramentas.
 
+- [Visualização de imagens com Matplotlib](https://github.com/carlosmandele/vision-artif-ubiquitous)
 - [Extração de dados na web com R](https://github.com/carlosmandele/Scraping-R/blob/main/datascraping.R)
 - [Análise descritiva de dados com Python](https://github.com/carlosmandele/analise-descritiva-de-dados/blob/master/DDA_Python.ipynb)
 - [](#)
